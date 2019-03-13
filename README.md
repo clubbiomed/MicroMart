@@ -1,4 +1,6 @@
 
+<img src="images/benchprep1.jpg" width="600">
+
 As scientists, one of our major roles is to be able to effectively communicate scientific concepts to the general public. This takes a number of forms such as giving oral presentations, producing posters/leaflets etc., all of which require some form of visual stimulus to keep the audience engaged e.g. pictures depicting the disease symptoms, a picture of the bug itself etc.
 
 An emerging medium for communicating scientific concepts is BioArt. One simple example is the use of live micro-organisms on an agar plate instead of paints on a canvas. Microbial colonies vary in their pigmentation (different colours) and their form (smooth, wrinkled, hairy, compact, spreading), providing a range of ‘paints’ to work with.

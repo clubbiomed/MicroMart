@@ -1,26 +1,38 @@
+# MicroMart
 
-<img src="images/benchprep1.jpg" width="600">
+Documentation of an iteration of the BioArt activity used as a teaching component at the Division of Biomedical and Life Sciences at Lancaster University developed by [Dr Rod Dillon](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/rod-dillon) and [Dr Jackie Parry](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/jackie-parry) 
+
+<img src="images/benchprep.jpg" width="600">
+
+### Requirements
+
+This is an experiment in documenting this activity as if it were a kit. It is not meant to be used as such it requires Biomedical lab facilities and practices to 'work' safely. This repo documents the translation of this sort of learning-through-design into a safer DIY practice suitable for Domestic or average Hackspace facilities.
+
+### Introduction
 
 As scientists, one of our major roles is to be able to effectively communicate scientific concepts to the general public. This takes a number of forms such as giving oral presentations, producing posters/leaflets etc., all of which require some form of visual stimulus to keep the audience engaged e.g. pictures depicting the disease symptoms, a picture of the bug itself etc.
 
 An emerging medium for communicating scientific concepts is BioArt. One simple example is the use of live micro-organisms on an agar plate instead of paints on a canvas. Microbial colonies vary in their pigmentation (different colours) and their form (smooth, wrinkled, hairy, compact, spreading), providing a range of ‘paints’ to work with.
 
-However, BioArt is not about making pretty pictures with pretty colonies, it’s about conveying and interpreting scientific concepts which are demonstrated by the micro-organisms on the agar; and which will make sense to the audience.
+## Pretty Pictures
 
+However, BioArt is not about making pretty pictures with pretty colonies, it’s about conveying and interpreting scientific concepts which are demonstrated by the micro-organisms on the agar; and which will make sense to the audience.
 
 Plates from the second practical are available and provide you with a vast array of bacterial and fungal colonies that could be used in your artwork. You may see that some colonies are killing others or that some colonies are completely destroying red blood cells. These could be used to demonstrate the processes of for example, antibiosis and cell lysis, respectively. Alternatively, you could use some of the bacteria provided (see below) which have specific features regarding Quorum Sensing and which could be used singly or in combination.
 
 ### Quorum sensing
 Communication between bacteria is carried out by small diffusible molecules, AHLs (in our Bio Art this might be called a metaphor for words and conversations). The conversations have a positive impact on pathogenic bacteria by causing the up-regulation of virulence factors (and making the cells ‘nasty’). At low cell density, bacteria are essentially harmless because their conversations are too quiet (dilute) to hear but at high cell density the conversations are louder, they are heard and the bacteria respond by becoming virulent and nasty. However, there are some bacteria that can completely destroy bacterial conversations by producing a lactonase (which breaks down AHLs).
 
-### FAQ
+### FAQ/Safety :biohazard:
 
-* Is it safe?
-  * No. You need to use standard sterile practices to deal with manipulating the organisms and your agar plates.
-  * Keep lids on plates where possible. Treat all materials in ***offensive waste*** bags
+ * Is it safe?
+   * No. You need to use standard but rigorous health and safety practices to deal with manipulating potentially dangerous organisms like E Coli on agar plates.
+  * Keep lids on plates where possible. Treat all materials as  ***offensive waste***. 
 
 
 ### Getting Started
+
+Don't get started the domestic version of this is not ready!
 
 #### Kit List
 

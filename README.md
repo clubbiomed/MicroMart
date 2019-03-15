@@ -1,6 +1,6 @@
 # MicroMart
 
-Documentation of an iteration of the BioArt activity used as a teaching component at the Division of Biomedical and Life Sciences at Lancaster University developed by [Dr Rod Dillon](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/rod-dillon) and [Dr Jackie Parry](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/jackie-parry) 
+Documentation of an iteration of the BioArt activity used as a teaching component at the [Faculty of Health & Medicine](https://www.lancaster.ac.uk/health-and-medicine/) at Lancaster University developed by [Dr Rod Dillon](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/rod-dillon) and [Dr Jackie Parry](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/jackie-parry) 
 
 <img src="images/benchprep.jpg" width="600">
 
@@ -59,7 +59,10 @@ LB agar (1.5%)|Non swarming|Agar beige
 Swarm LB agar (0.7%) |Swarming|Agar beige
 CB agar (5% blood)|Non swarming|Blood Red
 
-### Organisms
+Note: Agar is pre-prepared on plates, we will look into how this could be done in a way that's practical and domestic kitchen safe
+
+### Organisms
+
 
 Organism|Behaviour|Colour|Description
 --------|---------|----------|--------

@@ -2,7 +2,7 @@
 
 Documentation of an iteration of the BioArt activity used as a teaching component at the [Faculty of Health & Medicine](https://www.lancaster.ac.uk/health-and-medicine/) at Lancaster University developed by [Dr Rod Dillon](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/rod-dillon) and [Dr Jackie Parry](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/jackie-parry) 
 
-<img src="images/benchprep.jpg" width="600">
+<img src="images/montage.JPG" width="600">
 
 ### Requirements
 
@@ -14,7 +14,7 @@ As scientists, one of our major roles is to be able to effectively communicate s
 
 An emerging medium for communicating scientific concepts is BioArt. One simple example is the use of live micro-organisms on an agar plate instead of paints on a canvas. Microbial colonies vary in their pigmentation (different colours) and their form (smooth, wrinkled, hairy, compact, spreading), providing a range of ‘paints’ to work with.
 
-## Pretty Pictures
+### Pretty Pictures
 
 However, BioArt is not about making pretty pictures with pretty colonies, it’s about conveying and interpreting scientific concepts which are demonstrated by the micro-organisms on the agar; and which will make sense to the audience.
 
@@ -32,7 +32,8 @@ Communication between bacteria is carried out by small diffusible molecules, AHL
 
 ### Getting Started
 
-Don't get started the domestic version of this is not ready!
+<img src="images/benchprep.jpg" width="600">
+Don't get started: the domestic version of this is not ready!
 
 #### Kit List
 

@@ -37,16 +37,16 @@ Don't get started: the domestic version of this is not ready!
 
 #### Kit List
 
-Offensive waste disposal
-Bunsen Burner and supply
-Sterile Needle and hoop
-Surgical scissors
-Petri dishes
-Prepared agar from reputable company
-Incubators for 24 and 37 Centigrade
-Lab coat
-Sterile rubber nitrile gloves
-Safety Glasses
+ * Offensive waste disposal
+ * Bunsen Burner and supply
+ * Sterile Needle and hoop
+ * Surgical scissors
+ * Petri dishes
+ * Prepared agar from reputable company
+ * Incubators for 24 and 37 Centigrade
+ * Lab coat
+ * Sterile rubber nitrile gloves
+ * Safety Glasses
 Refrigeration
 
 

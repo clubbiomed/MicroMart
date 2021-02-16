@@ -6,7 +6,7 @@ Documentation of an iteration of the BioArt activity used as a teaching componen
 
 ## Images
 
-You can see the files from [2017 here](#)
+You can see the files from [2017 here](https://github.com/clubbiomed/MicroMart/tree/master/images/Artworks2017)
 
 ## Requirements
 
